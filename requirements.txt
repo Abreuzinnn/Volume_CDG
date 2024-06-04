@@ -29,7 +29,7 @@ packaging==23.2
 pandas==2.1.4
 Pillow==10.1.0
 protobuf==4.21.12
-PyAudio==0.2.11
+PyAudio==0.2.14
 pycparser==2.21
 pydub==0.25.1
 pygame==2.5.2
