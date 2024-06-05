@@ -2,6 +2,7 @@
 
 
 # Instala as dependências necessárias
+pip install sounddevice
 pip install libportaudio2
 pip install libasound2-dev
 pip install libportaudio-dev
