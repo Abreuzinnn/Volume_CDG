@@ -15,11 +15,3 @@ pip install -r requirements.txt
 
 # Executa o script Python
 python Alerta.py
-
-
-
-# Instala os pacotes Python
-pip install -r requirements.txt
-
-# Executa o script Python
-python Alerta.py
