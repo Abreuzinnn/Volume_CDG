@@ -3,12 +3,6 @@
 
 # Instala as dependências necessárias
 pip install git+https://github.com/jleb/pyaudio.git
-pip install sounddevice
-pip install libportaudio2
-pip install libasound2-dev
-pip install libportaudio-dev
-pip install libportaudiocpp0
-pip install portaudio19-dev
 
 # Instala os pacotes Python
 pip install -r requirements.txt
