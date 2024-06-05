@@ -1,8 +1,6 @@
 #!/bin/bash
 
 
-#!/bin/bash
-
 # Instala as dependências necessárias
 pip install libportaudio2
 pip install libasound2-dev
